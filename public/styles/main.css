@@ -16,6 +16,7 @@
 
  html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
+  background-image: url('../images/When-did-you.jpeg'); 
 }
 main, #messages-card {
   height: 100%;
@@ -24,6 +25,8 @@ main, #messages-card {
 #messages-card-container {
   height: calc(100% - 35px);
   padding-bottom: 0;
+  /* background-image: url("../images/weeb_meme.jpeg"); */
+
 }
 #messages-card {
   margin-top: 15px;
@@ -40,6 +43,11 @@ main, #messages-card {
   font-size: 36px;
   top: 8px;
   position: relative;
+}
+
+img.material-icons {
+  width:100%;
+  margin: 1px 1px 1px 2px;
 }
 .mdl-layout__header-row {
   padding: 0;
@@ -177,7 +185,8 @@ main, #messages-card {
   }
   #user-container {
     top: 72px;
-    background-color: rgb(3,155,229);
+    /* background-color: rgb(3,155,229); */
+    background-color:rgb(142 3 229);
     height: 38px;
     padding-top: 3px;
     padding-right: 2px;
