@@ -1,6 +1,6 @@
 # chat_app_starter
 
-## Directions
+### Directions
 To run this project host on a local server or go to the liver server here: https://slapchat-be32f.web.app/
 
 ### *** This app is still in development ***
